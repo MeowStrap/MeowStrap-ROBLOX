@@ -1,5 +1,6 @@
                                                                                            MEOWSTRAP
-                                     <img width="500" height="500" alt="MeowStrap-576x576-removebg-preview" src="https://github.com/user-attachments/assets/31ad59fc-87f7-4954-8fd7-0676869b0fd2" />
+                                     <img width="500" height="500" alt="MeowStrap-576x576-removebg-preview" src="https://github.com/user-attachments/assets/3ff7f420-1a70-4ec2-83c5-b7de3f90ed6e" />
+
 
 
 
