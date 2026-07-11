@@ -1,1 +1,1 @@
-To download Lucky, click on the releases
+To download LuckyStrap, click on the releases
