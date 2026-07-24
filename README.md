@@ -1,4 +1,4 @@
-# 🐱 MeowStrap
+# MeowStrap
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/v/release/MeowStrap/MeowStrap)](https://github.com/MeowStrap/MeowStrap-ROBLOX/releases)
